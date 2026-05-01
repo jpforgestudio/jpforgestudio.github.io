@@ -230,14 +230,6 @@ Privacy page 톤:
 App Store Connect 필드:
 
 ```text
-Marketing URL: https://jpforgestudio.github.io/sanefocus/
-Support URL: https://jpforgestudio.github.io/sanefocus/support/
-```
-
-나중에 custom domain을 붙이면:
-
-```text
 Marketing URL: https://jpforgestudio.com/sanefocus/
 Support URL: https://jpforgestudio.com/sanefocus/support/
 ```
-
