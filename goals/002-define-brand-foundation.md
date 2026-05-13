@@ -67,3 +67,5 @@ Checks:
   motif.
 - 2026-05-02: Unified the homepage and product page tagline around "Catch the
   thought. Keep the focus."
+- 2026-05-13: Updated the public tagline to "Catch the thought. Return to
+  flow." to match the App Store screenshot set and focus-return positioning.

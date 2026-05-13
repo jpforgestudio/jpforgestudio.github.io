@@ -177,13 +177,13 @@ Hero copy 후보:
 
 ```text
 Catch the thought.
-Keep the focus.
+Return to flow.
 ```
 
 Supporting copy 후보:
 
 ```text
-SaneFocus is a lightweight macOS scratchpad for quick notes, keyboard-first TODOs, and getting back to what you were doing.
+SaneFocus is a lightweight macOS scratchpad for quick notes, keyboard-first TODOs, and returning to flow.
 ```
 
 핵심 섹션:
@@ -198,7 +198,7 @@ Support page 톤:
 
 - 담백하고 도움되는 문서형.
 - support email을 명확히 표시한다.
-- Accessibility permission이 왜 필요한지 설명한다.
+- Accessibility permission이 필요하지 않다는 점과 focus return 동작을 설명한다.
 - local notes, no account, no analytics upload 문구를 포함한다.
 
 Privacy page 톤:
