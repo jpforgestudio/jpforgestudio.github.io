@@ -307,7 +307,7 @@ h3 {
 
 .workshop-grid {
   display: grid;
-  grid-template-columns: 1.12fr 0.88fr;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
 }
 
